@@ -3,22 +3,6 @@ High-Performance Computing repository containing CUDA implementations of vector/
 
 
 
-Here is a **professional, recruiter-friendly, highly polished README.md** you can paste directly in your GitHub repository.
-
-It includes:
-
-✔️ full repo structure
-✔️ descriptions of each section
-✔️ visuals placeholders
-✔️ HPC + Cybersecurity + Big Data positioning
-✔️ compilation instructions
-✔️ benchmarks placeholders
-✔️ badges + modern style
-
----
-
-# ✅ **README.md (Ready to Paste)**
-
 ```md
 # 🚀 GPU & High-Performance Computing Projects  
 ### CUDA • Parallel Computing • Cybersecurity • Big Data  
@@ -251,19 +235,3 @@ Master’s student in **Cybersecurity & Big Data**, passionate about:
 Star ⭐ the repository to support the work!
 
 ---
-
-```
-
----
-
-# Want me to generate the sub-README files too?  
-I can also generate:
-
-✅ README templates for each project folder  
-✅ GPU architecture diagrams  
-✅ logo/banner for the repo  
-✅ full benchmarks markdown  
-✅ instructions for GitHub Actions CI  
-
-Just tell me what you need next!
-```
